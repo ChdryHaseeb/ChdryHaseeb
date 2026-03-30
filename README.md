@@ -15,8 +15,8 @@
 ![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChdryHaseeb&show_icons=true&theme=tokyonight)
 
 ### 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Link Here]
-- **Email:** [Your Email Address Here]
+- **LinkedIn:** [[Your LinkedIn Link Here]](https://www.linkedin.com/in/muhammad-haseeb-akram-904a1a354/)
+- **Email:** Chdryhaseeb31194@gmail.com
 
 ---
 *"The best way to predict the future is to create it."*
