@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Haseeb 👋 (ChdryHaseeb)
 
-<!--
-**ChdryHaseeb/ChdryHaseeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **Student:** Pursuing a BS in Artificial Intelligence at Air University.
+- 🛠️ **Current Focus:** Developing a **Map Statistics & Heatmap Plugin** for the Tiled Map Editor (GSoC 2026).
+- 💻 **Tech Stack:** C++, Python, Qt, HTML/CSS.
+- 🕹️ **Interests:** Game Development logic, 2D array optimization, and AI systems.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+- **Languages:** C++, Python, JavaScript.
+- **Tools & Frameworks:** Qt, Flask, SQLite, Cisco Packet Tracer.
+- **Concepts:** Object-Oriented Programming, Discrete Structures, Digital Logic Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChdryHaseeb&show_icons=true&theme=tokyonight)
+
+### 📫 How to reach me
+- **LinkedIn:** [Insert your Link here]
+- **Email:** [Insert your Email here]
+
+---
+*"The best way to predict the future is to create it."*
